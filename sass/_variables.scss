@@ -7,6 +7,7 @@ $color: #3b3c3b;
 
 
 // breakpoints
-$breakpoint-small: "only screen and (min-width: 20em)";
+$breakpoint-xsmall: "ony screen and (max-width: 767px)";
+$breakpoint-small: "only screen and (min-width: 768px)";
 $breakpoint-medium: "only screen and (min-width: 1024px)";
  
